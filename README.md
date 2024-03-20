@@ -45,7 +45,7 @@
     - `center_point`: 屏幕中心点`(x, y)`，区域范围 `rx, ry`
     - `follow_bottom`: 关注按钮位置`(x, y)`，区域范围 `rx, ry`
     - `star_bottom`: 点赞按钮位置`(x, y)`，区域范围 `rx, ry`
-    
+
 
 ## 脸部截取
 
